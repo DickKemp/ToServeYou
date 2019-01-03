@@ -27,11 +27,11 @@ public class Controller {
     }
     @RequestMapping("/hello")
     public String hello() {
-        return "Hi Richie Rich!";
+        return "Hi Richie Rich! the version is: " + Application.searchURL();
     }
     @RequestMapping("/bye")
     public String bye() {
-        return "Bye bye Richie Rich!";
+        return "Bye bye Richie Rich! the key is: " + Application.searchKEY();
     }
     @RequestMapping("/wait")
     public String waitRichie() {
