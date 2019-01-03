@@ -1,4 +1,4 @@
-package home.rich.servesyou;
+package home.richk.servesyou;
 
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;

@@ -37,4 +37,8 @@ public class Controller {
     public String waitRichie() {
         return "Wait for me Richie!";
     }
+    @RequestMapping("/show")
+    public String showme() {
+        return "Show them to me!";
+    }
 }

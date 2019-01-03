@@ -3,8 +3,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.springframework</groupId>
-    <artifactId>gs-spring-boot</artifactId>
+    <groupId>home.richk</groupId>
+    <artifactId>servesyou</artifactId>
     <version>0.1.0</version>
 
     <parent>
@@ -71,8 +71,8 @@
 		</appSettings>
 		
 		<!-- Web App information -->
-		<resourceGroup>richkwebapp1</resourceGroup>
-		<appName>richkapp</appName>
+		<resourceGroup>servesyourg</resourceGroup>
+		<appName>servesyou</appName>
 		<region>eastus</region>  
 
 		<!-- Java version -->
